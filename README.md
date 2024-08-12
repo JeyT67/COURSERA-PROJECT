@@ -1,4 +1,4 @@
-# COURSERA-PROJECT
+# COURSERA-COURSES
 
 Below is a collection of Coursera pratices/projects I've compiled and uploaded to GitHub.
 
