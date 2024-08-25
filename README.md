@@ -1,6 +1,6 @@
 # COURSERA-COURSES
 
-Below is a collection of Coursera pratices/projects I've compiled and uploaded to GitHub.
+Below are the collection of Coursera courses/projects compiled and uploaded to GitHub.
 
 • PREPARING DATA FOR ANALYSIS WITH MICROSOFT EXCEL. https://github.com/JeyT67/Preparing-Data-for-Analysis-with-Microsoft-Excel
 
